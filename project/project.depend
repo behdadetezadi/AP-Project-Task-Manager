@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1626192782 source:c:\users\beh\desktop\project\project\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<ctime>
+	"Yearbook.h"
+	"Month.h"
+	"Day.h"
+	"Employee.h"
+	"Time.h"
+	"task.h"
+
+1626355925 c:\users\beh\desktop\project\project\yearbook.h
+	<iostream>
+	<iomanip>
+	<sstream>
+	<vector>
+	<fstream>
+	"Day.h"
+	"Month.h"
+	"Employee.h"
+
+1626193790 c:\users\beh\desktop\project\project\day.h
+	<vector>
+	<algorithm>
+	"Time.h"
+	"task.h"
+
+1626193034 c:\users\beh\desktop\project\project\time.h
+	<string>
+
+1626193305 c:\users\beh\desktop\project\project\task.h
+	<iostream>
+	<string>
+	<string.h>
+	"Time.h"
+
+1626193871 c:\users\beh\desktop\project\project\month.h
+	<vector>
+	"Day.h"
+
+1626196531 c:\users\beh\desktop\project\project\employee.h
+	<vector>
+	"Time.h"
+	"task.h"
+	<string>
+
+1625588225 c:\users\beh\desktop\project\project\commands.h
+	<iostream>
+	<string>
+
